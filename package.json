@@ -23,6 +23,6 @@
   "author": "emma",
   "license": "ISC",
   "dependencies": {
-    "electron": "^8.0.3"
+    "electron": "^11.5.0"
   }
 }
